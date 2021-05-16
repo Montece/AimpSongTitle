@@ -1,0 +1,7 @@
+D:\Выключение\C# программы\AimpAPI\bin\Debug\AimpAPI.exe.config
+D:\Выключение\C# программы\AimpAPI\bin\Debug\AimpAPI.exe
+D:\Выключение\C# программы\AimpAPI\bin\Debug\AimpAPI.pdb
+D:\Выключение\C# программы\AimpAPI\obj\Debug\AimpAPI.csprojAssemblyReference.cache
+D:\Выключение\C# программы\AimpAPI\obj\Debug\AimpAPI.csproj.CoreCompileInputs.cache
+D:\Выключение\C# программы\AimpAPI\obj\Debug\AimpAPI.exe
+D:\Выключение\C# программы\AimpAPI\obj\Debug\AimpAPI.pdb
